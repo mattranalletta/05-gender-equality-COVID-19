@@ -20,7 +20,7 @@ A big goal of mine for this project was to explore how gender equality at home h
 
 ## Findings and Conclusions
 
-After training and feature engineering a model, I ended up with a .57 R-squared value and a 3.71 RMSE, with all countries having Covid-19 Hardship values in the range of 10 to 37.
+After training and feature engineering a model, I ended up with a .57 R-squared value and a 3.71 RMSE, with all countries having COVID-19 hardship values in the range of 10 to 37.
 
 Top features with positive correlation to COVID-19 hardship:
 - Country in the Americas (+2.55)
