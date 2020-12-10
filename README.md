@@ -8,8 +8,8 @@ by [Matt Ranalletta](https://www.linkedin.com/in/matthewranalletta/)
 ## Methodologies
 
 1. Merged two sets of data:
-   - [Aggegrated survey from Facebook survey on household gender equality](), taken in July 2020
-   - [Worldwide COVID-19 cases and deaths, per country]()
+   - [Facebook survey on household gender equality](https://github.com/mattranalletta/05-gender-equality-COVID-19/blob/main/data/sog_agg_country.csv), taken in July 2020
+   - [Worldwide COVID-19 cases and deaths, per country](https://github.com/mattranalletta/05-gender-equality-COVID-19/blob/main/data/owid-covid-data.csv)
 2. Performed exploratory data analysis and cleaning.
 3. Used regression modeling techniques (linear, polynomial, Lasso, Ridge) to do initial modeling.
 4. Feature engineered and removed outliers to find the best model.
