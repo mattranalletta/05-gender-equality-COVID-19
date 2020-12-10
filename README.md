@@ -4,11 +4,12 @@ by [Matt Ranalletta](https://www.linkedin.com/in/matthewranalletta/)
 
 ## Summary
 
-For this project, I combined aggregated data from a Facebook survey on household gender equality with worldwide COVID-19 case data through July 2020, which is when the survey was taken.
 
 ## Methodologies
 
-1. Combined survey data with COVID-19 case data.
+1. Merged two sets of data:
+   - [Aggegrated survey from Facebook survey on household gender equality](), taken in July 2020
+   - [Worldwide COVID-19 cases and deaths, per country]()
 2. Performed exploratory data analysis and cleaning.
 3. Used regression modeling techniques (linear, polynomial, Lasso, Ridge) to do initial modeling.
 4. Feature engineered and removed outliers to find the best model.
