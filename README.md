@@ -22,9 +22,9 @@ by [Matt Ranalletta](https://www.linkedin.com/in/matthewranalletta/)
 ## Deliverables
 
 - [Data collection]()
-- [EDA notebook]()
-- [Regression Model notebook]
-- [Presentation - Google Slides](https://docs.google.com/presentation/d/1vzg987GceCEmjcfCDQ6YUQ-qbpBd01dMGILZwP2vn5E/edit?usp=sharing) / [PDF]()
+- [EDA notebook](https://github.com/mattranalletta/05-gender-equality-COVID-19/blob/main/code/covid_EDA.ipynb)
+- [Regression Model notebook](https://github.com/mattranalletta/05-gender-equality-COVID-19/blob/main/code/covid_regression.ipynb)
+- [Presentation - Google Slides](https://docs.google.com/presentation/d/1vzg987GceCEmjcfCDQ6YUQ-qbpBd01dMGILZwP2vn5E/edit?usp=sharing) / [PDF](https://github.com/mattranalletta/05-gender-equality-COVID-19/blob/main/presentation/Household%20Gender%20Equality%20during%20COVID-19.pdf)
 
 ## Technologies and Libraries Used
 
