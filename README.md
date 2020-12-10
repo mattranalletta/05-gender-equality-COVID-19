@@ -4,6 +4,9 @@ by [Matt Ranalletta](https://www.linkedin.com/in/matthewranalletta/)
 
 ## Summary
 
+In July 2020, Facebook (in conjunction with the World Bank, UN Women, Equal Measures 2030, and Ladysmith) surveyed half a million people on their platform in 208 countries and territories around the world, to capture household gender dynamics during the COVID-19 pandemic. 
+<br><br>
+A big goal of mine for this project was to explore how gender equality at home has gotten worse during COVID-19. I also wanted to discover the influencing factors and how that varied by country, so I created a model to predict the amount of hardship a household felt during the pandemic. I created a value based on aggregated percentages of people from the survey who felt that COVID-19 has made their life harder, including less access to medicine, losing a job, or being forced to migrate to a different location — and I used COVID-19 case data per capita and other demographic questions to predict that value.
 
 ## Methodologies
 
@@ -17,7 +20,21 @@ by [Matt Ranalletta](https://www.linkedin.com/in/matthewranalletta/)
 
 ## Findings and Conclusions
 
+After training and feature engineering a model, I ended up with a .57 R-squared value and a 3.71 RMSE, with all countries having Covid-19 Hardship values in the range of 10 to 37.
 
+Top features with positive correlation to COVID-19 hardship:
+- Country in the Americas (+2.55)
+- More likely to have internet access (+2.01) - surprising!
+- COVID-19 cases per capita (+0.99)
+- More likely to say you have an unsafe home (+0.95)
+- Country in Sub-Saharan Africa (+0.88)
+
+Top features with negative correlation:
+- Living alone (-1.72) - also surprising; possibly due to those living alone tending to be wealthier in the first place, so they experienced less hardship
+- Higher Human Development Index (-0.71)
+- COVID-19 deaths per capita (-0.57)
+- “Men and women should have equal opportunities” (-0.50)
+- Population of country (-0.15)
 
 ## Deliverables
 
