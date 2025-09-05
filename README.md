@@ -6,7 +6,10 @@ by [Matt Ranalletta](https://www.linkedin.com/in/matthewranalletta/)
 
 In July 2020, Facebook (in conjunction with the World Bank, UN Women, Equal Measures 2030, and Ladysmith) [surveyed half a million people](https://dataforgood.fb.com/docs/gendersurveyreport/) on their platform in 208 countries and territories around the world, to capture household gender dynamics during the COVID-19 pandemic. 
 <br><br>
-A big goal of mine for this project was to explore how gender equality at home has gotten worse during COVID-19. I also wanted to discover the influencing factors and how that varied by country, so I created a model to predict the amount of hardship a household felt during the pandemic. I created a value based on aggregated percentages of people from the survey who felt that COVID-19 has made their life harder, including less access to medicine, losing a job, or being forced to migrate to a different location — and I used COVID-19 case data per capita and other demographic questions to predict that value.
+There were two goals for this project: (1) to explore how gender equality at home has gotten worse during COVID-19; and (2) to discover the influencing factors and how that varied by country.
+<br><br>
+I created a regression model to predict the amount of hardship a household felt during the pandemic. The “hardship” value was based on aggregated percentages of people from the survey who felt that COVID-19 has made their life harder, including less access to medicine, losing a job, or being forced to migrate to a different location. The COVID data per capita as well as demographic questions from the survey were used to predict that value.
+
 
 ## Methodologies
 
