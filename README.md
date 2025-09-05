@@ -8,7 +8,7 @@ In July 2020, Facebook (in conjunction with the World Bank, UN Women, Equal Meas
 <br><br>
 There were two goals for this project: (1) to explore how gender equality at home has gotten worse during COVID-19; and (2) to discover the influencing factors and how that varied by country.
 <br><br>
-I created a regression model to predict the amount of hardship a household felt during the pandemic. The “hardship” value was based on aggregated percentages of people from the survey who felt that COVID-19 has made their life harder, including less access to medicine, losing a job, or being forced to migrate to a different location. The COVID data per capita as well as demographic questions from the survey were used to predict that value.
+I created a regression model to predict the amount of hardship a household felt during the pandemic. The “hardship” value was based on aggregated percentages of people from the survey who felt that COVID-19 has made their life harder, including less access to medicine, losing a job, or being forced to migrate to a different location. I used both COVID data per capita as well as demographic questions from the global survey as features in the regression model to predict that hardship value.
 
 
 ## Methodologies
